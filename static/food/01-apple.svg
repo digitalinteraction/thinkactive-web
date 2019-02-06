@@ -1,0 +1,48 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 226.56 265.05">
+  <defs>
+    <radialGradient id="radial-gradient" cx="178.11" cy="141.19" r="150.03" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ed4d4d"/>
+      <stop offset="0.04" stop-color="#ec4a4a"/>
+      <stop offset="0.39" stop-color="#e43236"/>
+      <stop offset="0.72" stop-color="#e0242a"/>
+      <stop offset="1" stop-color="#de1f26"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="208.37" cy="109.37" r="140.57" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ee6059"/>
+      <stop offset="0.56" stop-color="#e53e3b"/>
+      <stop offset="0.9" stop-color="#e12f2d"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="162.01" cy="155.85" r="133.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e74143"/>
+      <stop offset="0.12" stop-color="#dc393b"/>
+      <stop offset="0.45" stop-color="#c4272b"/>
+      <stop offset="0.75" stop-color="#b61d21"/>
+      <stop offset="1" stop-color="#b1191e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="221.39" cy="91.5" r="17.69" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7a6ac"/>
+      <stop offset="1" stop-color="#ef827d"/>
+    </radialGradient>
+  </defs>
+  <title>01-apple</title>
+  <g>
+    <path d="M35.45,107c4.31-12.83,16.7-30.27,41-35.12,20.91-4.18,31.36,5.43,56.45,7.52s36.37-5,42.23-7.94,26.76-14.63,51,2.51c25.41,18,28,49.76,28.85,71.08S244.1,217,211.48,248.77c-25.2,24.56-37.21,29.27-53.93,25.09-10.93-2.73-23-7.53-36.8-3.34s-30.52,4.6-42.65-7.95S8.79,186.54,35.45,107Z" transform="translate(-28.45 -10.17)" fill="url(#radial-gradient)"/>
+    <path d="M229.67,120.4C217,97.84,179,111.81,150,111c-34-1-59-11.29-42-13.8,41.39,6.9,93-9,84.67-20.07-7.53-10,12-13.82,30.5-.76,25,17.7,26.57,44,27.2,67.87.9,34.26-15.44,75.59-32,87.18C205.84,240.2,256,167.44,229.67,120.4Z" transform="translate(-28.45 -10.17)" fill="url(#radial-gradient-2)"/>
+    <path d="M221.52,233.72c-52.69,46-107.88,29.68-130.46,9.61C78,231.74,18.83,171.49,45.49,92c.44-1.33,1-2.71,1.6-4.11A53.11,53.11,0,0,0,35.45,107C8.79,186.54,66,250,78.1,262.57s28.85,12.13,42.65,7.95,25.87.61,36.8,3.34c16.72,4.18,28.73-.53,53.93-25.09a127.25,127.25,0,0,0,19.17-24.15A98,98,0,0,1,221.52,233.72Z" transform="translate(-28.45 -10.17)" fill="url(#radial-gradient-3)"/>
+    <path d="M106.27,76.51c-6.44-1.39-7.68,5,4,10s35.54,11.71,61.88.84,10.24-14.11-5.23-9.93S145.79,85,106.27,76.51Z" transform="translate(-28.45 -10.17)" fill="#b62026"/>
+    <path d="M128.91,85.07c-2.58-.4-3,2,1.6,4a31.8,31.8,0,0,0,24.56.33c10.46-4.31,4-5.9-2.23-4.72A66.74,66.74,0,0,1,128.91,85.07Z" transform="translate(-28.45 -10.17)" fill="#99181c"/>
+    <path d="M137.86,88.33c-1.18-.18-1.39.9.73,1.81a14.46,14.46,0,0,0,11.17.15c4.75-2,1.83-2.69-1-2.15A30.1,30.1,0,0,1,137.86,88.33Z" transform="translate(-28.45 -10.17)" fill="#6f0405"/>
+    <path d="M208.66,85.26c-6.77-1.62-8.37-11.71,1.67-10.88s29.27,20.08,29.27,34.29C231.23,102,229.67,90.27,208.66,85.26Z" transform="translate(-28.45 -10.17)" fill="url(#radial-gradient-4)"/>
+    <g>
+      <g>
+        <g>
+          <path d="M144.62,61.47s6.51-63.62-88.21-49.16C64,38.16,106.84,80.45,144.62,61.47Z" transform="translate(-28.45 -10.17)" fill="#68943b"/>
+          <path d="M144.62,61.47s6.51-63.62-88.21-49.16C68.7,18.82,117.87,42,144.62,61.47Z" transform="translate(-28.45 -10.17)" fill="#75a340"/>
+        </g>
+        <path d="M124,39.31c3.35,6.09,13.51,4.95,10-4.5s-27.13-22.88-40.83-19.1C101.88,22,113.59,20.38,124,39.31Z" transform="translate(-28.45 -10.17)" fill="#8cba55"/>
+      </g>
+      <path d="M142.08,88.21c-.68-1.13-2.93-35.54,8.78-57.28,2.09-2.09,4.6-1.67,7.1,0s5.44,3.35,2.51,7.11S145,61,146.68,88.63C145,90.72,143.33,90.3,142.08,88.21Z" transform="translate(-28.45 -10.17)" fill="#512f25"/>
+      <path d="M159.92,32.29a5.83,5.83,0,0,1-1.11,2.08c-2.93,3.77-15.47,23-13.8,50.6-1.13,1.41-2.26,1.67-3.26,1a9.1,9.1,0,0,0,.33,2.19c1.25,2.09,2.92,2.51,4.6.42C145,61,157.55,41.8,160.47,38,162.63,35.27,161.61,33.63,159.92,32.29Z" transform="translate(-28.45 -10.17)" fill="#3a1d13"/>
+    </g>
+  </g>
+</svg>

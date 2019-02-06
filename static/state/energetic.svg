@@ -1,0 +1,13 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 789.08 789.08">
+  <title>energetic</title>
+  <g id="food_groups" data-name="food groups">
+    <circle cx="394.54" cy="394.54" r="394.54" fill="#fff"/>
+  </g>
+  <g id="energetic">
+    <g>
+      <rect x="481.18" y="232.55" width="319.35" height="487.1" rx="42" ry="42" transform="translate(-74.01 1042.14) rotate(-90)" fill="#5e5e5e" stroke="#5e5e5e" stroke-miterlimit="10" stroke-width="6"/>
+      <rect x="514.85" y="259.66" width="268.03" height="434.87" rx="11.52" ry="11.52" transform="translate(-67.01 1051.14) rotate(-90)" fill="#44f254"/>
+      <rect x="269.89" y="457.55" width="214.52" height="40.32" rx="2.83" ry="2.83" transform="translate(-339.33 780.04) rotate(-90)" fill="#5e5e5e" stroke="#5e5e5e" stroke-miterlimit="10" stroke-width="6"/>
+    </g>
+  </g>
+</svg>

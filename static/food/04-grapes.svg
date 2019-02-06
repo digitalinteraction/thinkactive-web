@@ -1,0 +1,435 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 227.37 243.55">
+  <defs>
+    <clipPath id="clip-path" transform="translate(-183.19 -92.19)">
+      <path d="M339,175.64s-1.28-1.57-2.16-1.11c0,0-1.26,2.91-1,4.33,0,0-1.16-2.2-2.1-2.71,0,0-3.79,3.24-3.37,4.25l-.7-1.53s-3.12,1.31-2.28,3.11l-1.19-1.84s-4.08,2.05-3.44,3.28c0,0-1.44-.81-1.14-1.75,0,0-2.94-.25-3.69,2,0,0-2-2-1.75-2.89,0,0-4.8-.38.21,5.05,0,0,5,5.65,5.84,7.23,0,0,4.77,6.68,6.28,6.78,0,0-3.22,6.64-6.15,6.62,0,0-6.93,3.44-6.35,5.38,0,0,3.09-.51-.35,4.44,0,0-.83,2.46,1.64,1.61,0,0,.12,3.41,2,4.88,0,0,2.62.07,2.77-.91l.58,1.94.88-.46s-.26,4.4,3.77,2.26c0,0,1.09,4.81,3.51,2l1.41,1.61.88-.46s1.68,1.91,3.11,2.06c0,0,1.83-2.28,1.54-3a4.88,4.88,0,0,0,3.59,2.54,3.42,3.42,0,0,1,.51-1.16s1.8,3.2,4.82,3.17c0,0,1.33-1.94.86-3,0,0,1.14,1.09,1.93.89l.42-.9s.2,1,3.09,1.18c0,0,1.52-1.59.92-2.51,0,0,2.56,1.23,4-.09,0,0,.69-1,.23-1.69l2.24-.85s5.61.62,5.49-.44c0,0-.94-4.33-2.69-5.08l1.59-.4s-.42-2.91-2-3.85c0,0,3.41,1.78,4.91-.69a3.84,3.84,0,0,0-1.51-3c.22.09.8.17,2-.61l-.46-.87a2.93,2.93,0,0,0,2.62-1.84,4.27,4.27,0,0,0-1.21-2.28s5.19-2.07,3.91-3.86c0,0,3-1.35,3.13-2.78,0,0,6.28-2.54,4.92-3.84a24.75,24.75,0,0,0-4.8-.6s-1.53-1-2.63-.51c0,0,2-2.41-3.34-2.39,0,0,2.07-2.77-4.17-1.83,0,0,1.06-2,.39-2.45,0,0-3.67.48-5,2.2,0,0-2.61.37-3.15-.24,0,0,3-2.51,2.46-3l-1.75-.53a6.72,6.72,0,0,0,2.07-2.89l-1.34-.19a19,19,0,0,0,4.64-4.81s-3.42-2-4.65-1.36a2.77,2.77,0,0,0-3.16-.46s-.46-.65.63-1.56c0,0-3.2-2.24-5.21-1,0,0,.5-1.39-.13-1.73,0,0-3.68-.78-3.82,1.37,0-.39-.16-1.84-2.68-.51,0,0-.76-2.29-1.52-2.45,0,0-5.17,3-4.86,4.82" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-1.69" y1="500.91" x2="-0.02" y2="500.91" gradientTransform="matrix(0, -30.05, -30.05, 0, 15399.83, 148.06)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#437437"/>
+      <stop offset="0.6" stop-color="#8db66b"/>
+      <stop offset="1" stop-color="#8fc35f"/>
+    </linearGradient>
+    <clipPath id="clip-path-2" transform="translate(-183.19 -92.19)">
+      <rect x="196" y="92.19" width="185.24" height="226.81" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3" transform="translate(-183.19 -92.19)">
+      <path d="M332.72,282s.82,12.57,10.9,15.48c0,0,12.52,5.73,17.49-7.66,0,0-.22-16-15.64-21.56,0,0-15.64,1.53-12.75,13.74" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="5.36" cy="525.44" r="1.68" gradientTransform="matrix(0, 25.22, 25.22, 0, -12895.59, 151.77)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.23" stop-color="#7b973c"/>
+      <stop offset="1" stop-color="#4c5827"/>
+    </radialGradient>
+    <clipPath id="clip-path-4" transform="translate(-183.19 -92.19)">
+      <path d="M317.24,274.79s.82,12.56,10.9,15.48c0,0,12.51,5.73,17.49-7.66,0,0-.23-16-15.64-21.57,0,0-15.65,1.54-12.75,13.75" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-2" cx="5.08" cy="525.41" r="1.68" gradientTransform="matrix(0, 25.22, 25.22, 0, -12910.27, 151.45)" xlink:href="#radial-gradient"/>
+    <clipPath id="clip-path-5" transform="translate(-183.19 -92.19)">
+      <path d="M322.24,230.87s.81,12.57,10.89,15.48c0,0,12.52,5.74,17.49-7.66,0,0-.22-16-15.63-21.56,0,0-15.65,1.54-12.75,13.74" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-3" cx="4.78" cy="526.05" r="1.68" gradientTransform="matrix(0, 25.22, 25.22, 0, -12921.47, 115.09)" xlink:href="#radial-gradient"/>
+    <clipPath id="clip-path-6" transform="translate(-183.19 -92.19)">
+      <path d="M270,226.56s.82,12.57,10.9,15.48c0,0,12.52,5.74,17.49-7.66,0,0-.23-16-15.64-21.56,0,0-15.64,1.53-12.75,13.74" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-4" cx="4.03" cy="525.67" r="1.68" gradientTransform="matrix(0, 25.22, 25.22, 0, -12964.18, 129.68)" xlink:href="#radial-gradient"/>
+    <clipPath id="clip-path-7" transform="translate(-183.19 -92.19)">
+      <path d="M290.33,212.61s.82,12.56,10.89,15.48c0,0,12.52,5.73,17.49-7.66,0,0-.22-16-15.63-21.56,0,0-15.65,1.53-12.75,13.74" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-5" cx="4.2" cy="526.03" r="1.68" gradientTransform="matrix(0, 25.22, 25.22, 0, -12952.93, 111.68)" xlink:href="#radial-gradient"/>
+    <clipPath id="clip-path-8" transform="translate(-183.19 -92.19)">
+      <path d="M271.59,195.42s.82,12.56,10.9,15.48c0,0,12.51,5.73,17.49-7.66,0,0-.23-16-15.64-21.56,0,0-15.65,1.53-12.75,13.74" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-6" cx="3.78" cy="526.18" r="1.68" gradientTransform="matrix(0, 25.22, 25.22, 0, -12971.08, 104.1)" xlink:href="#radial-gradient"/>
+    <clipPath id="clip-path-9" transform="translate(-183.19 -92.19)">
+      <path d="M242.72,196.48s.82,12.56,10.9,15.48c0,0,12.51,5.73,17.49-7.66,0,0-.23-16-15.64-21.57,0,0-15.65,1.54-12.75,13.75" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-7" cx="3.41" cy="525.86" r="1.68" gradientTransform="matrix(0, 25.22, 25.22, 0, -12996.04, 115.36)" xlink:href="#radial-gradient"/>
+    <clipPath id="clip-path-10" transform="translate(-183.19 -92.19)">
+      <path d="M218,180.46s.82,12.56,10.9,15.48c0,0,12.52,5.73,17.49-7.66,0,0-.22-16-15.63-21.57,0,0-15.65,1.54-12.76,13.75" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-8" cx="2.94" cy="525.87" r="1.68" gradientTransform="matrix(0, 25.22, 25.22, 0, -13021.01, 111.24)" xlink:href="#radial-gradient"/>
+    <clipPath id="clip-path-11" transform="translate(-183.19 -92.19)">
+      <path d="M324.62,257.43s.82,12.56,10.9,15.48c0,0,12.51,5.73,17.49-7.66,0,0-.23-16-15.64-21.56,0,0-15.65,1.53-12.75,13.74" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-9" cx="5.04" cy="525.71" r="1.68" gradientTransform="matrix(0, 25.22, 25.22, 0, -12910.43, 135.22)" xlink:href="#radial-gradient"/>
+    <clipPath id="clip-path-12" transform="translate(-183.19 -92.19)">
+      <path d="M248.57,184.06s.82,12.56,10.9,15.48c0,0,12.51,5.73,17.49-7.66,0,0-.23-16-15.64-21.56,0,0-15.65,1.53-12.75,13.74" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-10" cx="3.39" cy="526.07" r="1.68" gradientTransform="matrix(0, 25.22, 25.22, 0, -12995.66, 103.55)" xlink:href="#radial-gradient"/>
+    <clipPath id="clip-path-13" transform="translate(-183.19 -92.19)">
+      <path d="M300.49,247.64s.82,12.56,10.9,15.48c0,0,12.51,5.73,17.49-7.66,0,0-.23-16-15.64-21.57,0,0-15.65,1.54-12.75,13.75" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-11" cx="4.63" cy="525.64" r="1.68" gradientTransform="matrix(0, 25.22, 25.22, 0, -12932.84, 135.81)" xlink:href="#radial-gradient"/>
+    <clipPath id="clip-path-14" transform="translate(-183.19 -92.19)">
+      <path d="M353.77,230.63s-6.16,9.55-9,8.22h0c.1.16,11.21,18.66,20.85,16.92,0,0,13.82-2.05,11.1-12.41,0,0-5.18-13-19.3-13a25.63,25.63,0,0,0-3.61.27" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-12" cx="4.31" cy="523.28" r="1.68" gradientTransform="matrix(0, 32.16, 32.16, 0, -16458.85, 105.96)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.2" stop-color="#dce24b"/>
+      <stop offset="1" stop-color="#b7c733"/>
+    </radialGradient>
+    <clipPath id="clip-path-15" transform="translate(-183.19 -92.19)">
+      <path d="M342.81,239s-9,8.19-4,18.93c0,0,3,7,6.12,8,0,0,20.83,6.93,20.62-10.19,0,0-1.17-17-18.86-17a32.09,32.09,0,0,0-3.91.25" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-13" cx="4.3" cy="523.14" r="1.68" gradientTransform="matrix(0, 31.92, 31.92, 0, -16344.94, 120.65)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-16" transform="translate(-183.19 -92.19)">
+      <path d="M316.65,282.1s-9.92,11.43-.34,20.79l1.09.67.62.38c3.37,1.41,13.41,4.55,21.62-3.56,0,0,8.05-8.56,3.62-16.16a14.14,14.14,0,0,0-12.35-7.33c-3.77,0-8.48,1.35-14.26,5.21" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-14" cx="5.12" cy="524.18" r="1.68" gradientTransform="matrix(0, 25.41, 27.26, 0, -13959.46, 162.8)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-17" transform="translate(-183.19 -92.19)">
+      <path d="M357.42,293s7.35,5.09,8.36,17.11a9,9,0,0,0,.68-.77l2.25-3.68.11-.18c1.72-3.71,3.07-9.56.53-17.15,0,0-8.12,6.43-11.93,4.67" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-15" cx="8.05" cy="527.85" r="1.68" gradientTransform="matrix(0, 16.78, 20.89, 0, -10661.75, 162.87)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-18" transform="translate(-183.19 -92.19)">
+      <path d="M337.4,302.3s.81,12.56,10.89,15.48c0,0,8.78,4,14.56-2.54l2.55-4.17c.13-.3.26-.62.38-.95,0,0-.22-16-15.63-21.56,0,0-15.65,1.53-12.75,13.74" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-16" cx="5.23" cy="524.19" r="1.68" gradientTransform="matrix(0, 27.43, 27.43, 0, -14023.88, 163.98)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-19" transform="translate(-183.19 -92.19)">
+      <path d="M365.58,255.78c0,.06.52,5-2.63,7.23a21.21,21.21,0,0,1,9.59,21s8.44-2.29,6.74-11c0,0-2.86-12.92-13.7-17.24Z" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-17" cx="5.94" cy="526.8" r="1.68" gradientTransform="matrix(0, 23.24, 23.24, 0, -11872.79, 130.81)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-20" transform="translate(-183.19 -92.19)">
+      <path d="M345.66,264.75c-7.22,11.4,4.49,23.81,4.49,23.81,1.65,2,7.78,4.63,7.78,4.63,12.67.08,14.61-9.18,14.61-9.18A21.11,21.11,0,0,0,363,263a12.85,12.85,0,0,0-7.36-2.43c-5.76,0-9.93,4.17-9.93,4.17" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-18" cx="4.74" cy="523.61" r="1.68" gradientTransform="matrix(0, 29.89, 29.89, 0, -15291.1, 136.43)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-21" transform="translate(-183.19 -92.19)">
+      <path d="M322.78,278.73s15.16-6.33,21.63,8.55h0c0-.2,1.91-12.34-5.32-15.62a15.31,15.31,0,0,0-4.73-.75c-3.68,0-8.64,1.38-11.58,7.82" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-19" cx="5.68" cy="526.91" r="1.68" gradientTransform="matrix(0, 22.36, 22.36, 0, -11443.19, 153.21)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-22" transform="translate(-183.19 -92.19)">
+      <path d="M315.55,250.86s-5.51,9.75-.75,17.55c0,0,9.1,12,19.15,2.51,0,0,9.33-7.95,2.35-21.26a17.44,17.44,0,0,0-10-3.4,15.53,15.53,0,0,0-10.78,4.6" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-20" cx="4.09" cy="521.81" r="1.68" gradientTransform="matrix(0, 31.28, 35.93, 0, -18417.86, 131.61)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-23" transform="translate(-183.19 -92.19)">
+      <path d="M331,222.7s-4.14,13.58,6.52,15.54c0,0,7.49,6.58,15.81-6.87l0-.07c.16-.28,6.88-12.55-2-18.25a12.93,12.93,0,0,0-6.33-1.68c-4.16,0-9.62,2.16-14,11.33" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-21" cx="4.19" cy="521.59" r="1.68" gradientTransform="matrix(0, 30.29, 38.85, 0, -19909.12, 101.6)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-24" transform="translate(-183.19 -92.19)">
+      <path d="M296.1,267.42s1.62,14.82,17.42,10.67c0,0,7-.94,9.59-3.95,0,0-14.82-5.5-8.53-21.21-.12,0-19.13.4-18.48,14.49" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-22" cx="5.11" cy="526.89" r="1.68" gradientTransform="matrix(0, 22.43, 22.43, 0, -11504.85, 150.92)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-25" transform="translate(-183.19 -92.19)">
+      <path d="M269.37,225.23s-14.53.55-12.64,13c0,0,1.12,8,11.95,10.49,0,0,1.35-14.73,16.59-13.78h0c-.06-.1-5.64-9.85-14.33-9.85a12,12,0,0,0-1.57.11" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-23" cx="4.59" cy="528.37" r="1.68" gradientTransform="matrix(0, 20.26, 20.26, 0, -10434.49, 143.13)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-26" transform="translate(-183.19 -92.19)">
+      <path d="M275.86,236.94s-10.33,7.09-6,14.41a11.44,11.44,0,0,0,9.92,9.25s9.25,1,11.61-1.09c0,0,13.87-9.73,1.66-20.94a17.21,17.21,0,0,0-10-3.47,15.07,15.07,0,0,0-7.17,1.84" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-24" cx="4.85" cy="528.47" r="1.68" gradientTransform="matrix(0, 20.08, 20.08, 0, -10326.85, 142.43)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-27" transform="translate(-183.19 -92.19)">
+      <path d="M293.87,223.59c-8.2,5.78,1.67,17.68,1.67,17.68,12.32,16.64,27.58,5.36,27.58,5.36,4.55-12.22-10.34-23.52-10.34-23.52a16.3,16.3,0,0,0-8.95-2.75,17.65,17.65,0,0,0-10,3.23" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-25" cx="3.68" cy="523.29" r="1.68" gradientTransform="matrix(0, 31.27, 31.27, 0, -16048.35, 118.09)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-28" transform="translate(-183.19 -92.19)">
+      <path d="M310.64,207.23c-5.73,8.59,2,14.51,2,14.51,7.06-5.44,18.27,1,18.27,1,.65-3.42,7.09-9.11,7.09-9.11-2-4.91-8.39-8.9-8.39-8.9a17.85,17.85,0,0,0-8.77-2.58,13,13,0,0,0-10.24,5.12" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-26" cx="6.35" cy="533.69" r="1.68" gradientTransform="matrix(0, 16.07, 16.07, 0, -8250.18, 111.3)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-29" transform="translate(-183.19 -92.19)">
+      <path d="M307.4,230.37s-2,18.5,19.3,15.89c0,0,14.35-.57,9.64-17.56,0,0-3.49-8.47-14.77-9,0,0-.46,0-1.22,0-3.38,0-12.61.9-13,10.76" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-27" cx="3.73" cy="522.79" r="1.68" gradientTransform="matrix(0, 33.05, 33.05, 0, -16955.14, 109.5)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-30" transform="translate(-183.19 -92.19)">
+      <path d="M282.17,209.65s-10.76,5.8-4.44,17.5c0,0,4.61,2.71,6.76,6.61,0,0,4.31,3.05,7.79,2.31,0,0-7.54-10.79,8-15.32,0,0-3.67-11.7-13.92-11.7a15.63,15.63,0,0,0-4.2.6" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-28" cx="5.4" cy="530.99" r="1.68" gradientTransform="matrix(0, 17.1, 17.91, 0, -9217.07, 129.73)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-31" transform="translate(-183.19 -92.19)">
+      <path d="M287.4,201.13s-.93,7.84,11.28,13.31c0,0,5.51.8,9.94-2.12,0,0,.25-5.66,4.74-7.75h0c0-.15,3.72-11.27-10.31-15.25a14.78,14.78,0,0,0-1.84-.1c-3.85,0-12.49,1.21-13.82,11.91" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-29" cx="4.34" cy="527.24" r="1.68" gradientTransform="matrix(0, 23.24, 23.24, 0, -11950.32, 103.7)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-32" transform="translate(-183.19 -92.19)">
+      <path d="M321.89,185.5s-7.31.8-9.69,9.85c0,0,2.2,5.52,1.17,9.22,0,0,9.2-6.73,20.12,3.07,0,0,10.39-6.8,4.73-16.55A13,13,0,0,0,327,184.66a17.34,17.34,0,0,0-5.15.84" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-30" cx="5.11" cy="529.69" r="1.68" gradientTransform="matrix(0, 20.26, 20.26, 0, -10402.92, 89.72)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-33" transform="translate(-183.19 -92.19)">
+      <path d="M256.68,207.2s1.62,13.93,19.73,9.14c0,0,3.25-7.1,8.76-7.24,0,0,5.89-9.4-7.86-16.57,0,0-.29,0-.81,0-3.94,0-21,.8-19.82,14.69" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-31" cx="3.28" cy="523.63" r="1.68" gradientTransform="matrix(0, 29.95, 30.53, 0, -15708.14, 109.85)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-34" transform="translate(-183.19 -92.19)">
+      <path d="M232.3,214.72S225,226.64,236.47,233c0,0,14.17,3.48,21.61-6.3,0,0,5.72-7.65,2.51-12.29,0,0-3.15-2.86-3.56-5.65a16.79,16.79,0,0,0-8.75-2.41c-4.48,0-10.2,1.78-16,8.4" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-32" cx="3.59" cy="524.64" r="1.68" gradientTransform="matrix(0, 23.96, 26.94, 0, -13882.58, 138.08)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-35" transform="translate(-183.19 -92.19)">
+      <path d="M242.61,195.62c-22.66,1.21-20.46,15.16-20.46,15.16a13,13,0,0,0,8,10.5c3.21-18.57,25.17-13.46,25.26-13.44h0c-1.67-11.24-9.14-12.27-11.81-12.27a7.44,7.44,0,0,0-.95.05" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-33" cx="3.23" cy="525.09" r="1.68" gradientTransform="matrix(0, 25.55, 26.24, 0, -13535.7, 128.56)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-36" transform="translate(-183.19 -92.19)">
+      <path d="M260.59,214.38c.05.14,3.34,9.78-8.28,17.05,0,0,2.81,3.08,4.54,2.11,0,0,3.94-9.18,18.07-7.73h0c0-.14,0-5.52-2.31-8.7h0C272.54,217.13,265.7,218.79,260.59,214.38Z" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-34" cx="5.77" cy="529.46" r="1.68" gradientTransform="matrix(0, 14.55, 19.17, 0, -9883.17, 143.36)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-37" transform="translate(-183.19 -92.19)">
+      <path d="M295.55,241.27c.05.08,6.1,8.93-1.7,16.06a19.43,19.43,0,0,0,6.6.17s6-3.49,9.37-4c0,0,1.81-.27,2.61-3.17h0C312.33,250.35,303.06,251.21,295.55,241.27Z" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-35" cx="4.86" cy="527.03" r="1.68" gradientTransform="matrix(0, 22.62, 22.62, 0, -11611.88, 140.11)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-38" transform="translate(-183.19 -92.19)">
+      <path d="M263.18,173.82s-8.83,9.85-1.57,16.62c0,0,3.9,3.57,6.77,3a39.37,39.37,0,0,1,10.24-.2s16.12-2.06,6.18-18.38a17,17,0,0,0-11.28-4.54,18.25,18.25,0,0,0-10.34,3.48" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-36" cx="4.34" cy="530.2" r="1.68" gradientTransform="matrix(0, 19.32, 19.32, 0, -9965.16, 101.99)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-39" transform="translate(-183.19 -92.19)">
+      <path d="M238.65,174.75S227,183.11,237,192.2c0,0,9.05,7.24,17.38,2.39,0,0,4.79-1.19,5.73-5.86a10.83,10.83,0,0,1-.24-9.69A15.71,15.71,0,0,0,247.19,173a22.77,22.77,0,0,0-8.54,1.79" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-37" cx="3.64" cy="528.17" r="1.68" gradientTransform="matrix(0, 21.42, 21.42, 0, -11065.54, 116.43)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-40" transform="translate(-183.19 -92.19)">
+      <path d="M214.9,201.35s2.55,6.75,7.24,7.5c0,0,2.23-13.17,21.54-13.28-.09,0-10.72-1.82-10.64-12.3h0c-.13,0-19.85,3.08-18.14,18.08" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-38" cx="3.91" cy="531.09" r="1.68" gradientTransform="matrix(0, 17.59, 17.59, 0, -9109.37, 130.06)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-41" transform="translate(-183.19 -92.19)">
+      <path d="M228,167.5c-6.53,10.66,5.07,15.77,5.07,15.77,4.22-14.72,20.48-9.09,20.55-9.06-6.31-4.84-7-13-7-13a15.6,15.6,0,0,0-7.63-2.29c-7.9,0-11,8.58-11,8.58" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-39" cx="4.69" cy="537.41" r="1.68" gradientTransform="matrix(0, 13.48, 13.48, 0, -7004.06, 112.33)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-42" transform="translate(-183.19 -92.19)">
+      <path d="M209.08,166.81s-13.14,5.5-10.43,14.37c0,0,3.26,12.52,12,10.38,0,0,12.35-1.23,16.85-12.92,0,0-2.47-4.06-1.26-7.17,0,0-1.1-6.39-9-6.39a23.81,23.81,0,0,0-8.19,1.73" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-40" cx="2.8" cy="524.13" r="1.68" gradientTransform="matrix(0, 23.7, 28.88, 0, -14917.87, 117.58)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-43" transform="translate(-183.19 -92.19)">
+      <path d="M287.73,181.59s1,5.51-1.9,8.59a4.62,4.62,0,0,0,3.81,4.49s8.21-9.94,19.35-2.64c0,0,10.14-11.18-1.25-21.45a12.61,12.61,0,0,0-5.88-1.46c-4.25,0-9.95,2.27-14.13,12.47" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-41" cx="4.06" cy="526.43" r="1.68" gradientTransform="matrix(0, 23.78, 25.13, 0, -12923.5, 85.84)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-44" transform="translate(-183.19 -92.19)">
+      <path d="M313.12,180.64h0s.57,5.2-4.13,11.39c0,0,.43.41,3.21,3.32,0,0,2.74-11.26,14.54-10.69,0,0-6.13-4.32-11.39-4.32a7.85,7.85,0,0,0-2.23.3" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-42" cx="6.61" cy="532.13" r="1.68" gradientTransform="matrix(0, 13.95, 17.66, 0, -9080.63, 93.41)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-45" transform="translate(-183.19 -92.19)">
+      <path d="M295.27,157.79c-9.6,6.55-2.83,15.53-2.69,15.72h0c14.56-11.4,20,4.24,20,4.24,6.25-5,.37-14,.37-14-2.59-6.34-6.7-8-10.31-8a16,16,0,0,0-7.38,2" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-43" cx="4.19" cy="528.41" r="1.68" gradientTransform="matrix(0, 22.27, 22.27, 0, -11463.04, 77.71)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-46" transform="translate(-183.19 -92.19)">
+      <path d="M270.57,161.27s3.43,4.54-1,9.57c0,0,11.55-2.4,16.57,6.49l1.57,4.26a29.64,29.64,0,0,1,3.21-6s2.88-10.74-10.74-15.84c0,0-6.77,2.84-9.63,1.55" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-44" cx="4.41" cy="531.02" r="1.68" gradientTransform="matrix(0, 18.75, 18.75, 0, -9673.82, 90.1)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-47" transform="translate(-183.19 -92.19)">
+      <path d="M284.56,154.49s-2.94,4.69-4.36,5.23c.05,0,12.12,4.09,10.74,15.84l1.65-2.05s-7.65-10.18,4.72-16.68c0,0,7.93-1.75,10.34.21,0,0-2.82-4.49-6.58-4,0,0-7.72,2-11.37-1.18,0,0-5,.9-5.14,2.67" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-45" cx="4.89" cy="529.83" r="1.68" gradientTransform="matrix(0, 16.74, 20.43, 0, -10525.54, 79.93)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-48" transform="translate(-183.19 -92.19)">
+      <path d="M315.38,170.35s1.17,5-2.79,7.4l.53,2.89s6-.85,7.5.81c0-.1,3.48-9-5.24-11.1Z" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-46" cx="10.27" cy="546.33" r="1.68" gradientTransform="matrix(0, 8.27, 10.26, 0, -5286.91, 90.61)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-49" transform="translate(-183.19 -92.19)">
+      <path d="M318.58,171.74s3.94,3.21,2,9.71h0l6.11,3.21,1.26,0S326.86,174.38,318.58,171.74Z" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-47" cx="3.99" cy="525.96" r="1.68" gradientTransform="matrix(0, 26.43, 26.43, 0, -13575.79, 72.75)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-50" transform="translate(-183.19 -92.19)">
+      <path d="M304.36,151.26l-.25.4-.88,1.44s1.3,1.14,4.42,3.94c0,0,6,3.22,7.73,13.31h0l.88.25s10.32-4.78,6.58-12.43c0,0-3.24-7.29-14-7.29a28.31,28.31,0,0,0-4.48.38" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-48" cx="6.4" cy="538.68" r="1.68" gradientTransform="matrix(0, 13.54, 13.54, 0, -6974.8, 75.6)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-51" transform="translate(-183.19 -92.19)">
+      <path d="M196,182.75v.12c.06,7.16,10.41,8.56,10.41,8.56-12.5-9.83-4.37-20-4.37-20-4.42,4.84-6,8.54-6,11.36" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-49" cx="9.31" cy="568.12" r="1.68" gradientTransform="matrix(0, 4.64, 5.74, 0, -3057.13, 141.36)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-52" transform="translate(-183.19 -92.19)">
+      <path d="M205.84,146.4l-1.21,2a11.05,11.05,0,0,0-.77,1.89c-3.1,10.75,12.06,14.87,12.06,14.87,2.56-.39,7.79,2.08,7.79,2.08a4.82,4.82,0,0,0,4.26.28c3.5-7.62,9.33-8.45,9.33-8.45l-.1-3.58c2.78-13.65-18.61-14.42-18.61-14.42-.5,0-1-.06-1.44-.06a13.33,13.33,0,0,0-11.31,5.41" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-50" cx="3.1" cy="530" r="1.68" gradientTransform="matrix(0, 19.43, 19.43, 0, -10074.44, 99.98)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-53" transform="translate(-183.19 -92.19)">
+      <path d="M197.06,178.48s3.91-12,19.49-13.38a19.55,19.55,0,0,1-6.85-2.72s-16,3-12.64,16.1" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-51" cx="7.87" cy="550.08" r="1.68" gradientTransform="matrix(0, 5.35, 8.64, 0, -4546.64, 128.56)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-54" transform="translate(-183.19 -92.19)">
+      <path d="M212.38,141.69c23-1.46,25,10.05,25,10.05,9,3.52,6.67-9.3,6.67-9.3-6.94-6-12.84-8-17.6-8-9.11,0-14,7.23-14,7.23" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-52" cx="3.23" cy="532.47" r="1.68" gradientTransform="matrix(0, 17.25, 17.25, 0, -8953.89, 86.19)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.2" stop-color="#dce24b"/>
+      <stop offset="0.46" stop-color="#d5dd46"/>
+      <stop offset="0.85" stop-color="#c1ce39"/>
+      <stop offset="1" stop-color="#b7c733"/>
+    </radialGradient>
+    <clipPath id="clip-path-55" transform="translate(-183.19 -92.19)">
+      <path d="M292.22,128.7s-18.39,4.51-6.12,22.74l1.13,1,2.47-.66s2.51,4.4,12.78,1.23c0,0,7.73-4.72,5.87-13.07,0,0-2.9-11.52-13.4-11.52a16.63,16.63,0,0,0-2.73.24" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-53" cx="4.13" cy="530.37" r="1.68" gradientTransform="matrix(0, 20.18, 20.18, 0, -10404.24, 64.98)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-56" transform="translate(-183.19 -92.19)">
+      <path d="M246.56,161.21c4,17.83,15.24,14.42,15.24,14.42,1.9-3.42,7.79-4.79,7.79-4.79a7.3,7.3,0,0,0,1-9.57c-7.27-7.57-12.37-10.08-15.93-10.08-7.09,0-8.08,10-8.08,10" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-54" cx="3.22" cy="526.57" r="1.68" gradientTransform="matrix(0, 24.69, 24.69, 0, -12736.67, 86.21)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-57" transform="translate(-183.19 -92.19)">
+      <path d="M270.57,161.27h0c.07,0,9.7,3.68,14.31-7.46,0,0,7.56-9.7-7.91-19.33l-.23-.14a19.69,19.69,0,0,0-4.39-.51c-6.25,0-15.52,3.36-1.78,27.44" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-55" cx="2.96" cy="524.74" r="1.68" gradientTransform="matrix(0, 29.25, 29.25, 0, -15071.8, 65.48)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-58" transform="translate(-183.19 -92.19)">
+      <path d="M258.09,122.91s3.49,11.11,11.07,11.27c0,0,5.77-1,7.58.16,0,0,12-15-7.68-22.85a12.84,12.84,0,0,0-1.78-.11c-3.52,0-10.9,1.2-9.19,11.53" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-56" cx="5.03" cy="541.98" r="1.68" gradientTransform="matrix(0, 12.09, 12.09, 0, -6279.83, 59.16)" xlink:href="#radial-gradient-12"/>
+    <clipPath id="clip-path-59" transform="translate(-183.19 -92.19)">
+      <path d="M259.48,108.87s-3.39-3.59-4,.1l-2-.67-.52.85s-2.43-.79-3.73-.19c0,0-.42,2.89.21,3.38A4.89,4.89,0,0,0,245,112a3.26,3.26,0,0,1,.16,1.26s-3.18-1.83-5.76-.27c0,0-.16,2.34.8,3,0,0-1.53-.35-2.11.22l.09,1s-.69-.78-3.25.56c0,0-.5,2.14.49,2.63,0,0-2.83.24-3.39,2.11,0,0-.06,1.24.66,1.57L231.2,126s-5.15,2.32-4.51,3.17c0,0,3,3.25,4.91,3l-1.17,1.15s1.85,2.29,3.72,2.28c0,0-3.84.2-3.87,3.09a3.84,3.84,0,0,0,2.82,1.81c-.24,0-.77.26-1.37,1.52l.84.52a2.93,2.93,0,0,0-1.32,2.91s1.18,1.31,2.2,1.35c0,0-3.41,4.43-1.39,5.31,0,0-1.88,2.69-1.28,4,0,0-4.12,5.39-2.28,5.81a24.1,24.1,0,0,0,4.44-1.93s1.81.07,2.52-.89c0,0-.49,3.08,4.09.35,0,0-.36,3.44,4.52-.55,0,0,.12,2.28.92,2.31,0,0,2.91-2.29,3.18-4.44,0,0,2.06-1.65,2.84-1.41,0,0-1.34,3.72-.6,3.83l1.78-.43a6.68,6.68,0,0,0-.31,3.53l1.25-.51a18.87,18.87,0,0,0-1.54,6.5s4,0,4.69-1.2a2.77,2.77,0,0,0,3-1.21s.73.33.26,1.67c0,0,3.89.29,5-1.84,0,0,.28,1.44,1,1.42,0,0,3.56-1.21,2.59-3.13.2.34,1.07,1.51,2.56-.92,0,0,1.83,1.58,2.56,1.33,0,0,2.94-5.18,1.73-6.62,0,0,1.9.7,2.42-.15,0,0-.4-3.15-1.38-4.21,0,0,2.12,1.29,3.19,1.25,0,0,1.61-4.71.73-5.37l1.39,1s2-2.72.37-3.84l2,1s2.47-3.84,1.28-4.56c0,0,1.65,0,1.88.92,0,0,2.65-1.29,2.18-3.56,0,0,2.7.73,3,1.6,0,0,4.32-2.12-2.75-4.25,0,0-7.19-2.31-8.72-3.24,0,0-7.5-3.32-8.85-2.64,0,0-.61-7.35,1.92-8.83,0,0,4.21-6.49,2.73-7.86,0,0-2.41,2-2-4,0,0-.54-2.54-2.23-.55,0,0-1.84-2.88-4.22-3.17,0,0-2.29,1.27-1.93,2.19l-1.48-1.37-.52.84s-.9-1.74-2.21-1.74c-.65,0-1.4.43-2.19,1.72" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="7.91" y1="521.59" x2="9.58" y2="521.59" gradientTransform="matrix(0, 30.05, 30.05, 0, -15413.13, -104.35)" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>04-grapes</title>
+  <g clip-path="url(#clip-path)">
+    <rect x="301.77" y="155.03" width="90.29" height="93.04" transform="matrix(0.55, -0.84, 0.84, 0.55, -194.88, 289.29)" fill="url(#linear-gradient)"/>
+  </g>
+  <g clip-path="url(#clip-path-2)">
+    <path d="M283.91,134s.68-31.17-2.8-32.15c0,0,4-7.3,5.66-6.3,0,0-.14-5.2-4.45-2.73,0,0-10.12,9.18-4.59,12.78a27.34,27.34,0,0,1-1.56,24.6l6.45,8.7Z" transform="translate(-183.19 -92.19)" fill="#584943"/>
+  </g>
+  <g clip-path="url(#clip-path-3)">
+    <rect x="322.39" y="263.22" width="46.15" height="44.94" transform="translate(-261.82 338.79) rotate(-58.5)" fill="url(#radial-gradient)"/>
+  </g>
+  <g clip-path="url(#clip-path-4)">
+    <rect x="306.91" y="256.05" width="46.15" height="44.94" transform="matrix(0.52, -0.85, 0.85, 0.52, -263.1, 322.17)" fill="url(#radial-gradient-2)"/>
+  </g>
+  <g clip-path="url(#clip-path-5)">
+    <rect x="311.91" y="212.14" width="46.15" height="44.94" transform="translate(-223.27 305.46) rotate(-58.5)" fill="url(#radial-gradient-3)"/>
+  </g>
+  <g clip-path="url(#clip-path-6)">
+    <rect x="259.7" y="207.83" width="46.15" height="44.94" transform="translate(-244.53 258.89) rotate(-58.5)" fill="url(#radial-gradient-4)"/>
+  </g>
+  <g clip-path="url(#clip-path-7)">
+    <rect x="280" y="193.88" width="46.15" height="44.94" transform="translate(-222.94 269.53) rotate(-58.5)" fill="url(#radial-gradient-5)"/>
+  </g>
+  <g clip-path="url(#clip-path-8)">
+    <rect x="261.26" y="176.69" width="46.15" height="44.94" transform="translate(-217.23 245.35) rotate(-58.5)" fill="url(#radial-gradient-6)"/>
+  </g>
+  <g clip-path="url(#clip-path-9)">
+    <rect x="232.39" y="177.74" width="46.15" height="44.94" transform="translate(-231.91 221.24) rotate(-58.5)" fill="url(#radial-gradient-7)"/>
+  </g>
+  <g clip-path="url(#clip-path-10)">
+    <rect x="207.67" y="161.72" width="46.15" height="44.94" transform="translate(-230.06 192.51) rotate(-58.5)" fill="url(#radial-gradient-8)"/>
+  </g>
+  <g clip-path="url(#clip-path-11)">
+    <rect x="314.29" y="238.7" width="46.15" height="44.94" transform="translate(-244.78 320.17) rotate(-58.5)" fill="url(#radial-gradient-9)"/>
+  </g>
+  <g clip-path="url(#clip-path-12)">
+    <rect x="238.24" y="165.33" width="46.15" height="44.94" transform="translate(-218.53 220.29) rotate(-58.5)" fill="url(#radial-gradient-10)"/>
+  </g>
+  <g clip-path="url(#clip-path-13)">
+    <rect x="290.16" y="228.9" width="46.15" height="44.94" transform="translate(-247.95 294.92) rotate(-58.5)" fill="url(#radial-gradient-11)"/>
+  </g>
+  <g clip-path="url(#clip-path-14)">
+    <rect x="341.43" y="222.07" width="41.27" height="43.75" transform="translate(-218.3 333.01) rotate(-58.5)" fill="url(#radial-gradient-12)"/>
+  </g>
+  <g clip-path="url(#clip-path-15)">
+    <rect x="326.9" y="233.29" width="45.8" height="45.1" transform="translate(-234.3 328.23) rotate(-58.5)" fill="url(#radial-gradient-13)"/>
+  </g>
+  <g clip-path="url(#clip-path-16)">
+    <rect x="303.03" y="266.98" width="48.35" height="51.44" transform="translate(-276.51 326.56) rotate(-58.5)" fill="url(#radial-gradient-14)"/>
+  </g>
+  <g clip-path="url(#clip-path-17)">
+    <rect x="351.59" y="287.37" width="26.13" height="23.72" transform="translate(-264.2 361.62) rotate(-58.5)" fill="url(#radial-gradient-15)"/>
+  </g>
+  <g clip-path="url(#clip-path-18)">
+    <rect x="327.79" y="283.16" width="44.69" height="44.04" transform="translate(-276.21 352.08) rotate(-58.5)" fill="url(#radial-gradient-16)"/>
+  </g>
+  <g clip-path="url(#clip-path-19)">
+    <rect x="355.22" y="254.84" width="33.49" height="30.12" transform="translate(-235.71 353.84) rotate(-58.5)" fill="url(#radial-gradient-17)"/>
+  </g>
+  <g clip-path="url(#clip-path-20)">
+    <rect x="333.1" y="253.05" width="46.66" height="47.75" transform="translate(-249.12 343.95) rotate(-58.5)" fill="url(#radial-gradient-18)"/>
+  </g>
+  <g clip-path="url(#clip-path-21)">
+    <rect x="321.42" y="264.78" width="26.25" height="28.62" transform="translate(-261.41 326.33) rotate(-58.5)" fill="url(#radial-gradient-19)"/>
+  </g>
+  <g clip-path="url(#clip-path-22)">
+    <rect x="303.4" y="240.25" width="46.52" height="46.2" transform="translate(-251.76 312.09) rotate(-58.5)" fill="url(#radial-gradient-20)"/>
+  </g>
+  <g clip-path="url(#clip-path-23)">
+    <rect x="320.53" y="205.12" width="45.96" height="45.94" transform="translate(-213.65 309.62) rotate(-58.5)" fill="url(#radial-gradient-21)"/>
+  </g>
+  <g clip-path="url(#clip-path-24)">
+    <rect x="289.56" y="248.14" width="39.44" height="38.9" transform="translate(-263.67 299.29) rotate(-58.5)" fill="url(#radial-gradient-22)"/>
+  </g>
+  <g clip-path="url(#clip-path-25)">
+    <rect x="252.03" y="217.79" width="36.05" height="38.29" transform="matrix(0.52, -0.85, 0.85, 0.52, -256.26, 251.21)" fill="url(#radial-gradient-23)"/>
+  </g>
+  <g clip-path="url(#clip-path-26)">
+    <rect x="263.73" y="224.48" width="43.35" height="47.73" transform="matrix(0.52, -0.85, 0.85, 0.52, -258.66, 269.74)" fill="url(#radial-gradient-24)"/>
+  </g>
+  <g clip-path="url(#clip-path-27)">
+    <rect x="279.69" y="211.42" width="53.96" height="55.43" transform="matrix(0.52, -0.85, 0.85, 0.52, -240.65, 283.48)" fill="url(#radial-gradient-25)"/>
+  </g>
+  <g clip-path="url(#clip-path-28)">
+    <rect x="304.05" y="192.9" width="34.86" height="39" transform="translate(-210.79 283.34) rotate(-58.5)" fill="url(#radial-gradient-26)"/>
+  </g>
+  <g clip-path="url(#clip-path-29)">
+    <rect x="301.43" y="211.39" width="43.58" height="45.69" transform="translate(-228.57 295.26) rotate(-58.5)" fill="url(#radial-gradient-27)"/>
+  </g>
+  <g clip-path="url(#clip-path-30)">
+    <rect x="266.47" y="203.36" width="38.76" height="39.13" transform="translate(-236.78 257.99) rotate(-58.5)" fill="url(#radial-gradient-28)"/>
+  </g>
+  <g clip-path="url(#clip-path-31)">
+    <rect x="282.68" y="182.38" width="38.19" height="39.71" transform="translate(-211.52 261.69) rotate(-58.5)" fill="url(#radial-gradient-29)"/>
+  </g>
+  <g clip-path="url(#clip-path-32)">
+    <rect x="309.96" y="176.64" width="36.15" height="39.02" transform="translate(-193.8 281.17) rotate(-58.5)" fill="url(#radial-gradient-30)"/>
+  </g>
+  <g clip-path="url(#clip-path-33)">
+    <rect x="251.8" y="184.2" width="42.97" height="45.26" transform="translate(-229.04 239.59) rotate(-58.5)" fill="url(#radial-gradient-31)"/>
+  </g>
+  <g clip-path="url(#clip-path-34)">
+    <rect x="221.42" y="196.97" width="45.97" height="48.83" transform="translate(-255.25 221.91) rotate(-58.5)" fill="url(#radial-gradient-32)"/>
+  </g>
+  <g clip-path="url(#clip-path-35)">
+    <rect x="217.45" y="186.61" width="40.43" height="43.63" transform="translate(-247.42 209.98) rotate(-58.5)" fill="url(#radial-gradient-33)"/>
+  </g>
+  <g clip-path="url(#clip-path-36)">
+    <rect x="249.13" y="209.54" width="28.98" height="29.8" transform="translate(-248.68 239.76) rotate(-58.5)" fill="url(#radial-gradient-34)"/>
+  </g>
+  <g clip-path="url(#clip-path-37)">
+    <rect x="291.15" y="237.35" width="23.99" height="24.59" transform="translate(-251.3 285.49) rotate(-58.5)" fill="url(#radial-gradient-35)"/>
+  </g>
+  <g clip-path="url(#clip-path-38)">
+    <rect x="253.91" y="158.77" width="41.28" height="46.8" transform="translate(-207.42 228.89) rotate(-58.5)" fill="url(#radial-gradient-36)"/>
+  </g>
+  <g clip-path="url(#clip-path-39)">
+    <rect x="223.63" y="165.15" width="39.9" height="42.09" transform="matrix(0.52, -0.85, 0.85, 0.52, -225.64, 204.41)" fill="url(#radial-gradient-37)"/>
+  </g>
+  <g clip-path="url(#clip-path-40)">
+    <rect x="209.57" y="176.38" width="37.74" height="39.36" transform="translate(-241.28 196.21) rotate(-58.5)" fill="url(#radial-gradient-38)"/>
+  </g>
+  <g clip-path="url(#clip-path-41)">
+    <rect x="218.73" y="151.02" width="37.57" height="40.14" transform="matrix(0.52, -0.85, 0.85, 0.52, -215.66, 192.03)" fill="url(#radial-gradient-39)"/>
+  </g>
+  <g clip-path="url(#clip-path-42)">
+    <rect x="191.28" y="158.45" width="40.9" height="41.87" transform="translate(-235.05 174) rotate(-58.5)" fill="url(#radial-gradient-40)"/>
+  </g>
+  <g clip-path="url(#clip-path-43)">
+    <rect x="282.79" y="160.97" width="39.25" height="41.85" transform="translate(-193.88 252.52) rotate(-58.5)" fill="url(#radial-gradient-41)"/>
+  </g>
+  <g clip-path="url(#clip-path-44)">
+    <rect x="306.83" y="176.36" width="22.07" height="22.97" transform="translate(-191.57 268.54) rotate(-58.5)" fill="url(#radial-gradient-42)"/>
+  </g>
+  <g clip-path="url(#clip-path-45)">
+    <rect x="284.21" y="146.86" width="36.09" height="39.78" transform="translate(-181.04 245.15) rotate(-58.5)" fill="url(#radial-gradient-43)"/>
+  </g>
+  <g clip-path="url(#clip-path-46)">
+    <rect x="266.05" y="154.61" width="31.31" height="32.09" transform="translate(-194.18 229.5) rotate(-58.5)" fill="url(#radial-gradient-44)"/>
+  </g>
+  <g clip-path="url(#clip-path-47)">
+    <rect x="276.63" y="145.78" width="34.59" height="35.82" transform="translate(-182.41 236.59) rotate(-58.5)" fill="url(#radial-gradient-45)"/>
+  </g>
+  <g clip-path="url(#clip-path-48)">
+    <rect x="310.61" y="168.1" width="15.48" height="15.61" transform="translate(-181.16 263.24) rotate(-58.5)" fill="url(#radial-gradient-46)"/>
+  </g>
+  <g clip-path="url(#clip-path-49)">
+    <rect x="315.31" y="170.82" width="15.97" height="14.8" transform="translate(-180.77 268.56) rotate(-58.5)" fill="url(#radial-gradient-47)"/>
+  </g>
+  <g clip-path="url(#clip-path-50)">
+    <rect x="300.4" y="145.63" width="29.02" height="30.23" transform="translate(-169.87 253.07) rotate(-58.5)" fill="url(#radial-gradient-48)"/>
+  </g>
+  <g clip-path="url(#clip-path-51)">
+    <rect x="188.35" y="170.85" width="23.62" height="21.13" transform="translate(-242.29 165.11) rotate(-58.5)" fill="url(#radial-gradient-49)"/>
+  </g>
+  <g clip-path="url(#clip-path-52)">
+    <rect x="198.39" y="130.84" width="43.96" height="47.82" transform="matrix(0.52, -0.85, 0.85, 0.52, -209.91, 169.6)" fill="url(#radial-gradient-50)"/>
+  </g>
+  <g clip-path="url(#clip-path-53)">
+    <rect x="192.29" y="156.48" width="25.67" height="27.89" transform="translate(-230.56 164.09) rotate(-58.5)" fill="url(#radial-gradient-51)"/>
+  </g>
+  <g clip-path="url(#clip-path-54)">
+    <rect x="211.61" y="124.96" width="35.46" height="39.8" transform="translate(-197.2 172.53) rotate(-58.5)" fill="url(#radial-gradient-52)"/>
+  </g>
+  <g clip-path="url(#clip-path-55)">
+    <rect x="270.68" y="119.58" width="42.67" height="45.52" transform="translate(-165.12 224.77) rotate(-58.5)" fill="url(#radial-gradient-53)"/>
+  </g>
+  <g clip-path="url(#clip-path-56)">
+    <rect x="241.29" y="146.04" width="38.21" height="38.15" transform="translate(-199.64 208.68) rotate(-58.5)" fill="url(#radial-gradient-54)"/>
+  </g>
+  <g clip-path="url(#clip-path-57)">
+    <rect x="252.06" y="126.08" width="45.14" height="46.63" transform="translate(-179.43 213.31) rotate(-58.5)" fill="url(#radial-gradient-55)"/>
+  </g>
+  <g clip-path="url(#clip-path-58)">
+    <rect x="254.31" y="103.08" width="36.47" height="39.56" transform="translate(-157.81 198.86) rotate(-58.5)" fill="url(#radial-gradient-56)"/>
+  </g>
+  <g clip-path="url(#clip-path-59)">
+    <rect x="228.09" y="100.29" width="66.09" height="72.95" transform="translate(-70.53 299.24) rotate(-87.4)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

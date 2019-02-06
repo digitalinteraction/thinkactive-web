@@ -1,0 +1,64 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 789.08 789.08">
+  <defs>
+    <clipPath id="clip-path">
+      <path d="M440.31,560.73c-2.1,0-3.55,2.92-2.75,5.57,4.14,13.82,18,48.6,52.35,48.6s48.5-35,52.77-49c.82-2.67-.64-5.61-2.76-5.6Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path d="M382.9,509.83a4,4,0,0,0-3.77,5.57c5.66,13.82,24.56,48.6,71.45,48.6s66.2-35,72-49a4.06,4.06,0,0,0-3.77-5.61Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <title>happy2</title>
+  <g id="central_circle" data-name="central circle">
+    <circle cx="394.54" cy="394.54" r="394.54" fill="#fff"/>
+  </g>
+  <g id="happy">
+    <g id="_Group_" data-name=" Group ">
+      <g id="_Group_2" data-name=" Group 2">
+        <path id="_Path_" data-name=" Path " d="M620.67,541A132.56,132.56,0,1,1,488.11,408.42,132.56,132.56,0,0,1,620.67,541Z" fill="#ffd21f"/>
+      </g>
+      <g id="_Group_3" data-name=" Group 3">
+        <path id="_Path_2" data-name=" Path 2" d="M440.31,560.73c-2.1,0-3.55,2.92-2.75,5.57,4.14,13.82,18,48.6,52.35,48.6s48.5-35,52.77-49c.82-2.67-.64-5.61-2.76-5.6Z" fill="#403408"/>
+        <g id="_Clip_Group_" data-name=" Clip Group ">
+          <g clip-path="url(#clip-path)">
+            <ellipse id="_Path_3" data-name=" Path 3" cx="489.36" cy="614.97" rx="37.39" ry="27.68" fill="#ff5a58"/>
+          </g>
+        </g>
+      </g>
+      <g id="_Group_4" data-name=" Group 4">
+        <path id="_Path_4" data-name=" Path 4" d="M529.36,530.88s-.24-20.54,18-20.54,17.9,20.38,17.9,20.38" fill="none" stroke="#403408" stroke-linecap="round" stroke-miterlimit="10" stroke-width="13.48"/>
+        <path id="_Path_5" data-name=" Path 5" d="M410.92,530.88s-.24-20.54,18-20.54,17.9,20.38,17.9,20.38" fill="none" stroke="#403408" stroke-linecap="round" stroke-miterlimit="10" stroke-width="13.48"/>
+      </g>
+      <g id="_Group_5" data-name=" Group 5">
+        <circle id="_Path_6" data-name=" Path 6" cx="395.3" cy="560.89" r="19.29" fill="#ff758a" opacity="0.6" style="isolation: isolate"/>
+        <circle id="_Path_7" data-name=" Path 7" cx="580.92" cy="560.89" r="19.29" fill="#ff758a" opacity="0.6" style="isolation: isolate"/>
+      </g>
+    </g>
+    <g id="_Group_6" data-name=" Group 6">
+      <g id="_Group_7" data-name=" Group 7">
+        <circle id="_Path_8" data-name=" Path 8" cx="212.11" cy="401.78" r="132.56" transform="translate(-221.97 267.66) rotate(-45)" fill="#ffd21f"/>
+      </g>
+      <g id="_Group_8" data-name=" Group 8">
+        <path id="_Path_9" data-name=" Path 9" d="M151.77,403.71h0a9.67,9.67,0,0,1-9.63-9.63V371a9.65,9.65,0,0,1,9.63-9.63h0a9.65,9.65,0,0,1,9.62,9.63v23.11A9.66,9.66,0,0,1,151.77,403.71Z" fill="#403408"/>
+        <path id="_Path_10" data-name=" Path 10" d="M272.45,403.71h0a9.67,9.67,0,0,1-9.63-9.63V371a9.67,9.67,0,0,1,9.63-9.63h0a9.65,9.65,0,0,1,9.63,9.63v23.11A9.67,9.67,0,0,1,272.45,403.71Z" fill="#403408"/>
+      </g>
+      <g id="_Group_9" data-name=" Group 9">
+        <path id="_Path_11" data-name=" Path 11" d="M144.13,435a4,4,0,0,0-3.77,5.57c5.66,13.82,24.56,48.6,71.45,48.6s66.2-35,72-49a4.06,4.06,0,0,0-3.77-5.61Z" fill="#403408"/>
+        <g id="_Clip_Group_2" data-name=" Clip Group 2">
+          <g clip-path="url(#clip-path-2)">
+            <ellipse id="_Path_12" data-name=" Path 12" cx="211.07" cy="484.76" rx="51.04" ry="27.68" fill="#ff5a58"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="_Group_10" data-name=" Group 10">
+      <g id="_Group_11" data-name=" Group 11">
+        <path id="_Path_13" data-name=" Path 13" d="M641.13,250A132.56,132.56,0,1,1,508.57,117.41,132.56,132.56,0,0,1,641.13,250Z" fill="#ffd21f"/>
+      </g>
+      <g id="_Group_12" data-name=" Group 12">
+        <path id="_Path_14" data-name=" Path 14" d="M549.81,239.86s-.24-20.54,18.06-20.54,17.89,20.38,17.89,20.38" fill="none" stroke="#403408" stroke-linecap="round" stroke-miterlimit="10" stroke-width="13.48"/>
+        <path id="_Path_15" data-name=" Path 15" d="M431.37,239.86s-.24-20.54,18.06-20.54,17.89,20.38,17.89,20.38" fill="none" stroke="#403408" stroke-linecap="round" stroke-miterlimit="10" stroke-width="13.48"/>
+      </g>
+      <path id="_Path_16" data-name=" Path 16" d="M556.07,284.8s-10,35.14-47.71,35.14-47.29-34.87-47.29-34.87" fill="none" stroke="#403408" stroke-linecap="round" stroke-miterlimit="10" stroke-width="13.48"/>
+    </g>
+  </g>
+</svg>

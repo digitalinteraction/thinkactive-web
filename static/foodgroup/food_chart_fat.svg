@@ -1,0 +1,15 @@
+<svg id="food_chart" data-name="food chart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780.62 749">
+  <title>food_chart</title>
+  <g id="fat_sugar">
+    <path id="fat_sugar-2" data-name="fat_sugar" d="M939.6,471a287.3,287.3,0,0,1-36.22,140.9L978,653.29A372.39,372.39,0,0,0,1025,471Z" transform="translate(-244.88 -96.5)" stroke="#231f20" stroke-miterlimit="10"/>
+    <text transform="translate(717.69 384.2) rotate(93.02)" font-size="35" font-family="MyriadPro-Regular, Myriad Pro" fill="black">f</text>
+    <text transform="translate(717.24 394.16) rotate(95.45)" font-size="35" font-family="MyriadPro-Regular, Myriad Pro" fill="black">a</text>
+    <text transform="translate(715.62 410.56) rotate(97.97)" font-size="35" font-family="MyriadPro-Regular, Myriad Pro" fill="black">t</text>
+    <text transform="translate(714.05 421.67) rotate(100.05)" font-size="35" font-family="MyriadPro-Regular, Myriad Pro" fill="black">+</text>
+    <text transform="translate(710.23 441.93) rotate(103.92)" font-size="35" font-family="MyriadPro-Regular, Myriad Pro" fill="black">s</text>
+    <text transform="translate(707.05 455.1) rotate(106.88)" font-size="35" font-family="MyriadPro-Regular, Myriad Pro" fill="black">u</text>
+    <text transform="translate(701.56 473.25) rotate(110.38)" font-size="35" font-family="MyriadPro-Regular, Myriad Pro" fill="black">g</text>
+    <text transform="matrix(-0.4, 0.92, -0.92, -0.4, 694.83, 491.26)" font-size="35" font-family="MyriadPro-Regular, Myriad Pro" fill="black">a</text>
+    <text transform="translate(688.11 506.46) rotate(116.24)" font-size="35" font-family="MyriadPro-Regular, Myriad Pro" fill="black">r</text>
+  </g>
+</svg>

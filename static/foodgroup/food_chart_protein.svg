@@ -1,0 +1,13 @@
+<svg id="food_chart" data-name="food chart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780.62 749">
+  <title>food_chart</title>
+  <g id="protein">
+    <path id="protein-2" data-name="protein" d="M684.83,757.65a290.62,290.62,0,0,1-33.83,2A287.29,287.29,0,0,1,490.31,710.8L443.19,782A372.22,372.22,0,0,0,651,845a376.58,376.58,0,0,0,44.42-2.62Z" transform="translate(-244.88 -96.5)" stroke="#231f20" stroke-miterlimit="10"/>
+    <text transform="matrix(-1, -0.05, 0.05, -1, 401.12, 685.9)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">P</text>
+    <text transform="matrix(-0.99, -0.11, 0.11, -0.99, 379.01, 684.65)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">r</text>
+    <text transform="translate(365.62 683.22) rotate(-171.14)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">o</text>
+    <text transform="translate(342.45 679.36) rotate(-167.11)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">t</text>
+    <text transform="translate(328.97 676.39) rotate(-163.92)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">e</text>
+    <text transform="translate(308.34 670.31) rotate(-161.04)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">i</text>
+    <text transform="translate(298.98 667.3) rotate(-157.94)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">n</text>
+  </g>
+</svg>

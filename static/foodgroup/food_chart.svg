@@ -1,0 +1,67 @@
+<svg id="food_chart" data-name="food chart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780.62 749">
+  <title>food_chart</title>
+  <g id="carb">
+    <path id="carbs" d="M513.91,216.94A287.39,287.39,0,0,1,651,182.36c159.41,0,288.64,129.23,288.64,288.64H1025c0-206.55-167.45-374-374-374a372.32,372.32,0,0,0-177.17,44.55Z" transform="translate(-244.88 -96.5)" fill="#edef95" stroke="#231f20" stroke-miterlimit="10"/>
+    <text transform="matrix(0.97, 0.24, -0.24, 0.97, 468.23, 66.91)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">C</text>
+    <text transform="matrix(0.95, 0.31, -0.31, 0.95, 492.03, 72.89)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">a</text>
+    <text transform="translate(511.6 79.31) rotate(21.54)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">r</text>
+    <text transform="translate(524.77 84.28) rotate(24.67)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">b</text>
+    <text transform="matrix(0.87, 0.49, -0.49, 0.87, 546.85, 94.41)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">o</text>
+    <text transform="matrix(0.84, 0.55, -0.55, 0.84, 567.34, 105.75)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">h</text>
+    <text transform="translate(586.69 118.52) rotate(37.31)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">y</text>
+    <text transform="translate(602.36 130.33) rotate(41.31)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">d</text>
+    <text transform="translate(620.43 146.4) rotate(44.81)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">r</text>
+    <text transform="translate(630.21 155.97) rotate(47.96)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">a</text>
+    <text transform="translate(643.86 171.22) rotate(51.11)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">t</text>
+    <text transform="matrix(0.58, 0.81, -0.81, 0.58, 652.63, 181.89)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">e</text>
+  </g>
+  <g id="fruit_veggies" data-name="fruit+veggies">
+    <path id="veggies" d="M491.11,711.42a287.41,287.41,0,0,1-94.89-104.81c-74.84-140.75-21.4-315.52,119.35-390.36l-40.08-75.37c-182.37,97-251.61,323.43-154.64,505.81A372.44,372.44,0,0,0,443.36,782.2Z" transform="translate(-244.88 -96.5)" fill="#60f466" stroke="#231f20" stroke-miterlimit="10"/>
+    <text transform="matrix(-0.42, -0.91, 0.91, -0.42, 126.82, 515.22)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">F</text>
+    <text transform="matrix(-0.37, -0.93, 0.93, -0.37, 118.52, 497.29)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">r</text>
+    <text transform="matrix(-0.32, -0.95, 0.95, -0.32, 113.23, 484.44)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">u</text>
+    <text transform="matrix(-0.27, -0.96, 0.96, -0.27, 105.78, 462.01)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">i</text>
+    <text transform="translate(103.06 452.44) rotate(-103.42)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">t</text>
+    <text transform="translate(99.75 439.07) rotate(-100.22)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">e</text>
+    <text transform="translate(96.07 417.86) rotate(-97.42)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro"> </text>
+    <text transform="matrix(-0.07, -1, 1, -0.07, 94.68, 409.09)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">+</text>
+    <text transform="matrix(-0.02, -1, 1, -0.02, 93.01, 383.53)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro"> </text>
+    <text transform="translate(92.7 374.63) rotate(-88.33)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">v</text>
+    <text transform="matrix(0.1, -1, 1, 0.1, 93.24, 354.54)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">e</text>
+    <text transform="translate(95.21 333.26) rotate(-80.37)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">g</text>
+    <text transform="matrix(0.24, -0.97, 0.97, 0.24, 99.18, 309.73)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">g</text>
+    <text transform="translate(105.1 286.71) rotate(-72.94)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">i</text>
+    <text transform="translate(107.84 277.26) rotate(-70.07)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">e</text>
+    <text transform="translate(115.2 257.13) rotate(-66.58)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">s</text>
+  </g>
+  <g id="protein">
+    <path id="protein-2" data-name="protein" d="M684.83,757.65a290.62,290.62,0,0,1-33.83,2A287.29,287.29,0,0,1,490.31,710.8L443.19,782A372.22,372.22,0,0,0,651,845a376.58,376.58,0,0,0,44.42-2.62Z" transform="translate(-244.88 -96.5)" fill="#217eed" stroke="#231f20" stroke-miterlimit="10"/>
+    <text transform="matrix(-1, -0.05, 0.05, -1, 401.12, 685.9)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">P</text>
+    <text transform="matrix(-0.99, -0.11, 0.11, -0.99, 379.01, 684.65)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">r</text>
+    <text transform="translate(365.62 683.22) rotate(-171.14)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">o</text>
+    <text transform="translate(342.45 679.36) rotate(-167.11)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">t</text>
+    <text transform="translate(328.97 676.39) rotate(-163.92)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">e</text>
+    <text transform="translate(308.34 670.31) rotate(-161.04)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">i</text>
+    <text transform="translate(298.98 667.3) rotate(-157.94)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">n</text>
+  </g>
+  <g id="dairy">
+    <path id="dairy-2" data-name="dairy" d="M978,651.7l-74.67-41.39a288.27,288.27,0,0,1-218.06,148L695.68,843C819.72,827.77,922.07,753.44,978,651.7Z" transform="translate(-244.88 -96.5)" fill="#f29c55" stroke="#231f20" stroke-miterlimit="10"/>
+    <text transform="matrix(-0.78, 0.63, -0.63, -0.78, 614.14, 606.19)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">D</text>
+    <text transform="translate(591.94 624.08) rotate(145.32)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">a</text>
+    <text transform="matrix(-0.85, 0.53, -0.53, -0.85, 574.85, 635.75)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">i</text>
+    <text transform="matrix(-0.87, 0.5, -0.5, -0.87, 566.43, 641.05)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">r</text>
+    <text transform="translate(553.49 648.54) rotate(153.53)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro">y</text>
+  </g>
+  <g id="fat_sugar">
+    <path id="fat_sugar-2" data-name="fat_sugar" d="M939.6,471a287.3,287.3,0,0,1-36.22,140.9L978,653.29A372.39,372.39,0,0,0,1025,471Z" transform="translate(-244.88 -96.5)" fill="#eb75f2" stroke="#231f20" stroke-miterlimit="10"/>
+    <text transform="translate(717.69 384.2) rotate(93.02)" font-size="35" font-family="MyriadPro-Regular, Myriad Pro">f</text>
+    <text transform="translate(717.24 394.16) rotate(95.45)" font-size="35" font-family="MyriadPro-Regular, Myriad Pro">a</text>
+    <text transform="translate(715.62 410.56) rotate(97.97)" font-size="35" font-family="MyriadPro-Regular, Myriad Pro">t</text>
+    <text transform="translate(714.05 421.67) rotate(100.05)" font-size="35" font-family="MyriadPro-Regular, Myriad Pro">+</text>
+    <text transform="translate(710.23 441.93) rotate(103.92)" font-size="35" font-family="MyriadPro-Regular, Myriad Pro">s</text>
+    <text transform="translate(707.05 455.1) rotate(106.88)" font-size="35" font-family="MyriadPro-Regular, Myriad Pro">u</text>
+    <text transform="translate(701.56 473.25) rotate(110.38)" font-size="35" font-family="MyriadPro-Regular, Myriad Pro">g</text>
+    <text transform="matrix(-0.4, 0.92, -0.92, -0.4, 694.83, 491.26)" font-size="35" font-family="MyriadPro-Regular, Myriad Pro">a</text>
+    <text transform="translate(688.11 506.46) rotate(116.24)" font-size="35" font-family="MyriadPro-Regular, Myriad Pro">r</text>
+  </g>
+</svg>

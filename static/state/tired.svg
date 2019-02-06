@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 789.08 789.08">
+  <title>tired</title>
+  <g id="food_groups" data-name="food groups">
+    <circle cx="394.54" cy="394.54" r="394.54" fill="#fff"/>
+  </g>
+  <g id="tired">
+    <g>
+      <rect x="481.29" y="233.65" width="319.35" height="487.1" rx="42" ry="42" transform="translate(-75 1043.34) rotate(-90)" fill="#5e5e5e" stroke="#5e5e5e" stroke-miterlimit="10" stroke-width="6"/>
+      <rect x="514.95" y="260.76" width="268.03" height="434.87" rx="11.52" ry="11.52" transform="translate(-68 1052.34) rotate(-90)" fill="#fff"/>
+      <rect x="698.9" y="443.7" width="268.03" height="68.98" rx="4.59" ry="4.59" transform="translate(115.95 1236.28) rotate(-90)" fill="red"/>
+      <rect x="270" y="458.65" width="214.52" height="40.32" rx="2.83" ry="2.83" transform="translate(-340.32 781.24) rotate(-90)" fill="#5e5e5e" stroke="#5e5e5e" stroke-miterlimit="10" stroke-width="6"/>
+    </g>
+  </g>
+</svg>

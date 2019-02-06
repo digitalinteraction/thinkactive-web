@@ -1,0 +1,19 @@
+<svg id="food_chart" data-name="food_chart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780.62 749">
+  <title>food_chart</title>
+  <g id="fruit_veggies" >
+    <path id="veggies"  d="M491.11,711.42a287.41,287.41,0,0,1-94.89-104.81c-74.84-140.75-21.4-315.52,119.35-390.36l-40.08-75.37c-182.37,97-251.61,323.43-154.64,505.81A372.44,372.44,0,0,0,443.36,782.2Z" transform="translate(-244.88 -96.5)" stroke="#231f20" stroke-miterlimit="10"/>
+      <text transform="matrix(-0.42, -0.91, 0.91, -0.42, 126.82, 515.22)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">F</text>
+      <text transform="matrix(-0.37, -0.93, 0.93, -0.37, 118.52, 497.29)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">r</text>
+      <text transform="matrix(-0.32, -0.95, 0.95, -0.32, 113.23, 484.44)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">u</text>
+      <text transform="matrix(-0.27, -0.96, 0.96, -0.27, 105.78, 462.01)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">i</text>
+      <text transform="translate(103.06 452.44) rotate(-103.42)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">t</text>
+      <text transform="matrix(-0.07, -1, 1, -0.07, 94.68, 409.09)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">+</text>
+      <text transform="translate(92.7 374.63) rotate(-88.33)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">v</text>
+      <text transform="matrix(0.1, -1, 1, 0.1, 93.24, 354.54)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">e</text>
+      <text transform="translate(95.21 333.26) rotate(-80.37)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">g</text>
+      <text transform="matrix(0.24, -0.97, 0.97, 0.24, 99.18, 309.73)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">g</text>
+      <text transform="translate(105.1 286.71) rotate(-72.94)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">i</text>
+      <text transform="translate(107.84 277.26) rotate(-70.07)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">e</text>
+      <text transform="translate(115.2 257.13) rotate(-66.58)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">s</text>
+  </g>
+</svg>

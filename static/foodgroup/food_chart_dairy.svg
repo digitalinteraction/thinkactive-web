@@ -1,0 +1,11 @@
+<svg id="food_chart" data-name="food chart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780.62 749">
+  <title>food_chart</title>
+  <g id="dairy">
+    <path id="dairy-2" data-name="dairy" d="M978,651.7l-74.67-41.39a288.27,288.27,0,0,1-218.06,148L695.68,843C819.72,827.77,922.07,753.44,978,651.7Z" transform="translate(-244.88 -96.5)" stroke="#231f20" stroke-miterlimit="10"/>
+    <text transform="matrix(-0.78, 0.63, -0.63, -0.78, 614.14, 606.19)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">D</text>
+    <text transform="translate(591.94 624.08) rotate(145.32)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">a</text>
+    <text transform="matrix(-0.85, 0.53, -0.53, -0.85, 574.85, 635.75)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">i</text>
+    <text transform="matrix(-0.87, 0.5, -0.5, -0.87, 566.43, 641.05)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">r</text>
+    <text transform="translate(553.49 648.54) rotate(153.53)" font-size="43.68" font-family="MyriadPro-Regular, Myriad Pro" fill="black">y</text>
+  </g>
+</svg>
